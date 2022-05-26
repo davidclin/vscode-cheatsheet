@@ -2,10 +2,11 @@
 
 # Useful shortcuts
 <pre>
-cntl + `     Opens/closes terminal window
-F1           Opens command palette (easiest)
-Ctrl+Shift+P Opens command palette (not sure why, but everyone uses this instead of F1)
-
+Ctrl + `       Opens/closes terminal window
+F1             Opens command palette (easiest)
+Ctrl + Shift+P Opens command palette (not sure why, but everyone uses this instead of F1)
+Ctrl + Enter   Moves cursor to next line
+Ctrl + '       Moves cursor outside last quotation mark
 </pre>
 
 # Enabling tab completion
