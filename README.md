@@ -8,6 +8,13 @@ Ctrl+Shift+P Opens command palette (not sure why, but everyone uses this instead
 
 </pre>
 
+# Enabling tab completion
+<pre>
+$ touch ~/.bashrc
+$ terraform -install-autocomplete
+
+Once the autocomplete support is installed, you will need to restart your shell.
+</pre>
 # Sample .ssh/config file
 <pre>
 Host MyCustodianC7N-ORG
