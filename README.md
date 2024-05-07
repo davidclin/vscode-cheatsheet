@@ -1,4 +1,4 @@
-# Windows 10 - VSCode Cheatsheet
+# VSCode Cheatsheet
 
 # Useful shortcuts
 <pre>
