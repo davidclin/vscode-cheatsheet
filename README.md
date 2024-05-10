@@ -6,6 +6,9 @@ Ctrl + `       Opens/closes terminal window
 Ctrl + B       Toggles File Explorer pallete
 F1             Opens command palette (easiest)
 Ctrl + Shift+P Opens command palette (not sure why, but everyone uses this instead of F1)
+
+Alt + up/down  Moves entire line up/down
+  
 Ctrl + Enter   Moves cursor to next line
 Ctrl + '       Moves cursor outside last quotation mark
 </pre>
