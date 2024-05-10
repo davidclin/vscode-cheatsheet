@@ -33,6 +33,11 @@ Host MyCustodianC7N-ORG
   IdentityFile "C:\Users\David Lin\.ssh\your_private_ssh_key.pem"
 </pre>
 
+# Enabling ability to toggle primary sidebar using Cntl + B when in terminal window
+F1 --> Preferences: Open User Settings (JSON)
+![image](https://github.com/davidclin/vscode-cheatsheet/assets/6853545/feaf1423-cd0b-4fb1-b579-72a9fb5ffd40)
+
+
 # Disabling Ctrl+v in vscode terminal so VIM will work
 Ctrl+V is binded to workbench.action.terminal.paste and this is one of default actions whose keybinding will be intercepted and handled by VS Code. Use next setting to exclute it from the list (will effectively disabled paste with Ctrl+V to the terminal)
 
