@@ -14,8 +14,8 @@ Ctrl + '           Moves cursor outside last quotation mark
 
 # Useful Toggle pallette commands
 ```
-Toggle sidebar position
-Toggle vim mode
+toggle sidebar position
+toggle vim mode
 ```
 
 # Enabling tab completion
