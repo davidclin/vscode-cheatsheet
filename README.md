@@ -13,8 +13,10 @@ Ctrl + '           Moves cursor outside last quotation mark
 </pre>
 
 # Useful Toggle pallette commands
+```
 Toggle sidebar position
 Toggle vim mode
+```
 
 # Enabling tab completion
 <pre>
