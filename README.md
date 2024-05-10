@@ -3,7 +3,7 @@
 # Useful shortcuts
 <pre>
 Ctrl + `           Opens/closes terminal window
-Ctrl + B           Toggles File Explorer pallete
+Ctrl + B           Toggles File Explorer pallete (Requires addition setting to work in terminal; see below for details)
 F1                 Opens command palette (easiest)
 Ctrl + Shift + P   Opens command palette (not sure why, but everyone uses this instead of F1)
 Ctrl + Shift + V   View Markdown as webpage
